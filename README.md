@@ -7,7 +7,9 @@ java  spring boot
 
 ## Vaga de Estacionamento
 ### API de Cadastro de vagas de estacionamento em um condomínio.
-#### Possui regra de validação, permitido apenas um cliente por CPF e uma vaga de garagem por cliente.
+#### Possui regra de validação, permitido cadastro de apenas um cliente por CPF e uma vaga de garagem por cliente.
+
+#### Para testar, clique em "codigo" escolha a opção de export desejado, importe após descompactar, importe na sua IDE preferida (Eclipse, Intellij, etc) faça a requisição utilizando o Postman.
 
 
 
